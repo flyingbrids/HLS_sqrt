@@ -1,0 +1,12 @@
+{
+  "name": "fixed_point_sqrt",
+  "type": "HLS",
+  "configuration": {
+    "componentType": "HLS",
+    "configFiles": [
+      "hls_config.cfg"
+    ],
+    "work_dir": "fxp_sqrt_top"
+  },
+  "previousBuildStatusMap": {}
+}
